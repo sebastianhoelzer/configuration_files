@@ -1,9 +1,7 @@
 Navigate:
 =========
 
-Goto Anything (File/Symobol)    Ctrl + P                      
-Upper case:                     Ctrl + K, Ctrl + U            
-lower case:                     Ctrl + K, Ctrl + L            
+Goto Anything (File/Symobol)    Ctrl + P                                
 Select Word under Cursor        Ctrl + D                      
 Go to Line                      Ctrl + G                      
 Follow Symbol under Cursor      F12  
@@ -24,3 +22,10 @@ Duplicate Line (Copy Line Down) Ctrl + Shift + D
 QuickFix                        Alt + Return
 Toggle Comment                  Ctrl + Shift + 7
 Delete Line                     Ctrl + Shift + K
+Upper case:                     Ctrl + K, Ctrl + U            
+lower case:                     Ctrl + K, Ctrl + L
+
+Search:
+=======
+
+to be continued...
