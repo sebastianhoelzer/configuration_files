@@ -22,4 +22,5 @@ Editing:
 
 Duplicate Line (Copy Line Down) Ctrl + Shift + D
 QuickFix                        Alt + Return
-Toggle Comment                  Ctrl + shift + 7
+Toggle Comment                  Ctrl + Shift + 7
+Delete Line                     Ctrl + Shift + K
