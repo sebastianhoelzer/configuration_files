@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE KeyboardMappingScheme>
-<!-- Written by Qt Creator 4.2.1, 2018-09-26T15:23:03. -->
+<!-- Written by Qt Creator 4.2.1, 2018-09-26T15:45:24. -->
 <mapping>
  <shortcut id="Git.GitkFile"/>
  <shortcut id="Git.Revert"/>
@@ -567,7 +567,9 @@
  </shortcut>
  <shortcut id="Wizard.Impl.Z.NimSource"/>
  <shortcut id="Wizard.Impl.Z.NimScript"/>
- <shortcut id="TextEditor.DeleteLine"/>
+ <shortcut id="TextEditor.DeleteLine">
+  <key value="Ctrl+Shift+K"/>
+ </shortcut>
  <shortcut id="TextEditor.DeleteEndOfWord"/>
  <shortcut id="TextEditor.DeleteEndOfWordCamelCase"/>
  <shortcut id="QtCreator.Mode.Edit">
