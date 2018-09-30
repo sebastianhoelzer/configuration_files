@@ -1,8 +1,7 @@
 Navigate:
 =========
 
-Goto Anything (File/Symobol)    Ctrl + P                                
-Select Word under Cursor        Ctrl + D                      
+Goto Anything (File/Symobol)    Ctrl + P             
 Go to Line                      Ctrl + G                      
 Follow Symbol under Cursor      F12  
 Go Back                         Alt + Left
@@ -11,6 +10,7 @@ Go Forward                      Alt + Right
 
 Select:
 =======
+Select Word under Cursor        Ctrl + D 
 Select the hole line            Ctrl + L
 Expand selection to scope       Ctrl + Shift + Space
 
