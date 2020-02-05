@@ -23,7 +23,8 @@ Expand selection to scope       |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Space
 Action|Keys
 ---|---|
 Duplicate Line (Copy Line Down) |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>D</kbd>|
-Quick ix                        |<kbd>Alt</kbd> + <kbd>Return</kbd>|
+Quick fix                        |<kbd>Alt</kbd> + <kbd>Return</kbd>|
+Indent                          |<kbd>Ctrl</kbd> + <kbd>I</kbd>|
 Toggle Comment                  |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>7</kbd>|
 Delete Line                     |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>K</kbd>|
 Upper case:                     |<kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>Ctrl</kbd> + <kbd>U</kbd>|
