@@ -1,0 +1,11 @@
+# enter git config --global --edit
+# and paste this
+
+[merge]
+        tool = bcompare
+[diff]
+        tool = bcompare
+[difftool "bcompare"]
+        cmd = \"/usr/bin/bcompare\" \"$LOCAL\" \"$REMOTE\"
+[mergetool "bcompare"]
+        cmd = \"/usr/bin/bcompare\" \"$LOCAL\" \"$REMOTE\" \"$BASE\" \"$MERGED\"
